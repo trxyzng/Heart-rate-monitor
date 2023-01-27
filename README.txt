@@ -1,0 +1,2 @@
+# Heart-rate-monitor
+A project for monitoring the heart-rate and oxygen level in the blood of a person. An wearable device is used to collect information from the wearer. An Android app will be used to display the informaion.
